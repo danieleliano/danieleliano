@@ -1,7 +1,6 @@
 ### Olá, Seja bem-vindo! Eu sou Daniel Eliano,
 
-- 🔭 Atualmente trabalho com Dados, SQL, Pyhton
-- 💻 Estudando para ser um Cientista de Dados
+- 💻 Estudante de HTML, CSS, Javascript, React, Node.js, Firebase, SQL
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
