@@ -1,6 +1,6 @@
 ### Olá, Seja bem-vindo! Eu sou Daniel Eliano,
 
-- 💻 Estudante de HTML, CSS, Javascript, React, Node.js, Firebase, SQL
+- 💻 Profissional de BI e aspirante a Cientista de Dados
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
