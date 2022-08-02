@@ -3,6 +3,7 @@
 - 💻 Profissional de BI e aspirante a Cientista de Dados
 - 🎲 Atualmente estudo Estatística e Machine Learning para aplicações em Ciências de Dados
 - 👔 Já trabalhei no ramo logístico e hoje trabalho com Inteligencia de Mercado
+- 📚 Neste repositório você irá encontrar muito conteúdo de Machine Learning e análise de dados em Pyhton
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
