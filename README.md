@@ -1,3 +1,5 @@
+![Banner Principal](https://github.com/danieleliano/danieleliano/blob/main/ingestion.jpg) 
+
 ### Olá, Seja bem-vindo! Eu sou Daniel Eliano,
 
 - 💻 Profissional de BI e aspirante a Cientista de Dados
