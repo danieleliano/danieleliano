@@ -3,7 +3,7 @@
 - 💻 Profissional de BI e aspirante a Cientista de Dados
 - 🎲 Atualmente estudo Estatística e Machine Learning para aplicações em Ciências de Dados
 - 👔 Já trabalhei no ramo logístico e hoje trabalho com Inteligencia de Mercado
-- 📚 Neste repositório você irá encontrar muito conteúdo de Machine Learning e análise de dados em Pyhton
+- 📚 Neste repositório você irá encontrar muito conteúdo de Machine Learning e análise de dados em Pyhton e alguns cursos que eu fiz no Kaggle.
 
 <div align="center">
   <a href="https://github.com/danieleliano">
